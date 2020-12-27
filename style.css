@@ -1,0 +1,55 @@
+body {
+  background-color: lightblue;
+  color: blue;
+}
+
+h1 {
+  background-color: pink;
+  color: red;
+font-family: "sofia", sans-serif;
+font-size: 60px;
+border: ridge;
+border-style: dotted;
+border-radius: 50px;
+}
+
+h3 {
+  background-colour: yellow;
+  colour: green;
+font-family: "sofia", sans-serif;
+font-size:30px;
+text-allign: center;
+border: ridge;
+border-style: solid;
+border-radius: 45px;
+}
+
+
+p {
+  background-color: yellow;
+}
+body {
+  font-family: "Audiowide", sans-serif;
+}
+font-size: 30px;
+colour: green;
+text-allign: center;
+border: ridge;
+border-style: dashed;
+border-radius: 45px:
+}
+
+a:link, a:visited {
+  background-color: #f44336;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: red;
+}
+
+
